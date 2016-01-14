@@ -1,9 +1,10 @@
 *{font-family:Arial}
 body {
-  background-image: url("https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xaf1/t31.0-8/s2048x2048/10918954_629279313873789_4102069185947081483_o.jpg");
+  background-image: url("http://i64.tinypic.com/2s1926x.jpg");
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
+  background-size: cover;
 }
 html,body{
 height:100%;
