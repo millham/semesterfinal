@@ -19,7 +19,8 @@ height:100%;
   overflow:hidden;
 }
 #left {
-  width: 167px;
+  text-align: center;
+  width: 200px;
   float:left;
   min-height:100%;
   background-color: rgba( 225, 225, 225, .5);
@@ -27,15 +28,15 @@ height:100%;
 }
 #right {
   text-align:center;
-  width: 167px;
+  width: 200px;
   float:right;
   min-height:100%;
   background-color: rgba( 225, 225, 225, .5);
   padding:20;
 }
 #main {
-  margin-left:240px;
-  margin-right:240px;
+  margin-left:260px;
+  margin-right:260px;
   min-height:100%;
   background-color: rgba( 225, 225, 225, .5);
   text-align:left;
